@@ -1,0 +1,33 @@
+* text=auto
+
+# Dokumentation / Text
+*.md text
+*.txt text
+LICENSE text
+
+# Quellcode / Skripte
+*.cpp text
+*.h text
+*.rc text
+*.ahk text
+*.iss text
+*.json text
+*.xml text
+*.yml text
+*.yaml text
+*.wh.cpp text
+
+# Windows-Skripte
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binärdateien
+*.gif binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.exe binary
+*.dll binary
+*.zip binary
+*.pdf binary
